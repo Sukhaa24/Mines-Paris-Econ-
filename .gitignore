@@ -1,0 +1,46 @@
+# -------- STATA --------
+*.log
+*.dta~
+*.smcl
+*.gph
+*.tmp
+*.stata.log
+*.sthlp
+*.old
+*.lst
+
+# -------- R --------
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Ruserdata
+*.Rhistory
+*.Rdata
+*.Rout
+*.Rcheck/
+.Rbuildignore
+
+# -------- LaTeX --------
+*.aux
+*.bbl
+*.blg
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+
+# -------- System / OS --------
+.DS_Store
+Thumbs.db
+
+# -------- Misc --------
+*.bak
+*.tmp
+*.swp
